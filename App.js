@@ -193,8 +193,8 @@ class App extends Component {
               <View></View>
 
               <Button style={styles.button} onPress={() => this.refreshUUID()} title="Refresh"></Button>
-              <Button style={styles.button} onPress={() => this.stopBakgroundTask()} title="Stop Background task"></Button>
               <Button style={styles.button} onPress={() => this.startBackgroundTask()} title="Start Background task"></Button>
+              <Button style={styles.button} onPress={() => this.stopBakgroundTask()} title="Stop Background task"></Button>
 
 
 

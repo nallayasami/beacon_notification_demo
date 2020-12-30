@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241609428834",
+    "project_id": "beaconnotificationdemo",
+    "storage_bucket": "beaconnotificationdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241609428834:android:6b46fa07cb70238fd5a63b",
+        "android_client_info": {
+          "package_name": "com.beacon_notification_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241609428834-aruc2npcm70i1752sa3hdqdjmpnob7v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlzpnrjYfbJ378gkq8MBlGi-sRp8Jmnfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241609428834-aruc2npcm70i1752sa3hdqdjmpnob7v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
